@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/home/hmk/code/cpp/runtime_lib:{LD_LIBRARY_PATH}
