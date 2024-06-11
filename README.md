@@ -1,1 +1,1 @@
-# paddle-lite-ocr
+# cxx-ocr
